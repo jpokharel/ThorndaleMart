@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Thorndale Mart</string>
+    <string name="grocery_store">Grocery Store</string>
+    <string name="address_text">Address:</string>
+    <string name="address_value">1104 W thorndale Ave, Chicago, IL 60660</string>
+    <string name="description_text">This is a community grocery store, located in the center of the neighborhood. Freah vegetables and fruits are the specialities, especially on Fridays. In a very well managed set up, one finds it very easy to locate the desired items.</string>
+    <string name="description_title">Description</string>
+    <string name="store_name">Thorndale Mart Inc.</string>
+</resources>
